@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:16:1-59:12
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:16:1-59:12
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:16:1-59:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\483979956f4a301d18e4e907713ac1b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\6047f2b93fb89564db55a67238166b68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\02fd97ca2f53766291d8470e67b16406\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c554f8eef38b4813a4efca88ed091ca9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\353de5a2b041015c80f435782df06e6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aaed109a2e3f35175a9f4a7f094ce64e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3e1c82a47d38c8b62a680e0fcef87c13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8f1dba2b6bcff26f04416018c1659733\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\219aada9bece79909ad76b19177d78c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c12ee127f5e06971ef363826eb1a2a76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f7be9e731194ab901486b0188056c660\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1fe8ad318ad70eb07300fc25438ebab7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e51e85c572e82ca73689f29f33f820bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2ba213e33e860f180ec6b4b8eb2162ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c60aa2741387ddb55c35c26b2183c6fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c78c4e972f1e2bd369bc5e0370feac4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\58c0f552b570278dfcea4820b04d27d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\275568fcfde881a5710ec5de670da256\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a8caf8daf0fcee62e1576eb59858ab5f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fd3fc61f9fa534e4272df711d16d4afe\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fc847c47f8b07c08f4d547167f2b7196\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\68ea8affdd8ba6691c05efcd3aecc214\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b65194344787e83a22e87055a7373590\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0fb81738fb8319cb76df39a5ff4ea0a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d08d918f23dbc8b20192957ebb36c128\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\da22836b68191cfc1c0c7e67f02cdb4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b273edc01076b099dcc9279d69d9a4e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5b57b79d931b44c39e12e42a3f5c6d98\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fe67e12aea5a9d43dc6820c0bbc65499\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71b9124a8866b7e147eb1fa1087dbae5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:16:1-59:12
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:16:1-59:12
+	package
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:17:5-53
+	android:versionName
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:22:5-57:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a8caf8daf0fcee62e1576eb59858ab5f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a8caf8daf0fcee62e1576eb59858ab5f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fd3fc61f9fa534e4272df711d16d4afe\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fd3fc61f9fa534e4272df711d16d4afe\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a8caf8daf0fcee62e1576eb59858ab5f\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:26:9-40
+meta-data#com.google.android.gms.car.application
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:27:9-29:59
+	android:resource
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:28:13-66
+activity#com.example.android.basicnotifications.MainActivity
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:37:27-74
+receiver#com.example.android.basicnotifications.MyMessageHeardReceiver
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:41:9-48:20
+	android:enabled
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:42:13-51
+intent-filter#action:name:com.example.android.basicnotifications.MY_ACTION_MESSAGE_HEARD
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:45:13-47:29
+action#com.example.android.basicnotifications.MY_ACTION_MESSAGE_HEARD
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:46:17-105
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:46:25-102
+receiver#com.example.android.basicnotifications.MyMessageReplyReceiver
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:49:9-56:20
+	android:enabled
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:51:13-35
+	android:exported
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:50:13-51
+intent-filter#action:name:com.example.android.basicnotifications.MY_ACTION_MESSAGE_REPLY
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:53:13-55:29
+action#com.example.android.basicnotifications.MY_ACTION_MESSAGE_REPLY
+ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:54:17-105
+	android:name
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml:54:25-102
+uses-sdk
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\483979956f4a301d18e4e907713ac1b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\483979956f4a301d18e4e907713ac1b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\6047f2b93fb89564db55a67238166b68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-28.0.0.aar\6047f2b93fb89564db55a67238166b68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\02fd97ca2f53766291d8470e67b16406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\02fd97ca2f53766291d8470e67b16406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c554f8eef38b4813a4efca88ed091ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c554f8eef38b4813a4efca88ed091ca9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\353de5a2b041015c80f435782df06e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\353de5a2b041015c80f435782df06e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aaed109a2e3f35175a9f4a7f094ce64e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\aaed109a2e3f35175a9f4a7f094ce64e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3e1c82a47d38c8b62a680e0fcef87c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3e1c82a47d38c8b62a680e0fcef87c13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8f1dba2b6bcff26f04416018c1659733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8f1dba2b6bcff26f04416018c1659733\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\219aada9bece79909ad76b19177d78c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\219aada9bece79909ad76b19177d78c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c12ee127f5e06971ef363826eb1a2a76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\c12ee127f5e06971ef363826eb1a2a76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f7be9e731194ab901486b0188056c660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f7be9e731194ab901486b0188056c660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1fe8ad318ad70eb07300fc25438ebab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1fe8ad318ad70eb07300fc25438ebab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e51e85c572e82ca73689f29f33f820bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e51e85c572e82ca73689f29f33f820bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2ba213e33e860f180ec6b4b8eb2162ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2ba213e33e860f180ec6b4b8eb2162ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c60aa2741387ddb55c35c26b2183c6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c60aa2741387ddb55c35c26b2183c6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c78c4e972f1e2bd369bc5e0370feac4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c78c4e972f1e2bd369bc5e0370feac4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\58c0f552b570278dfcea4820b04d27d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\58c0f552b570278dfcea4820b04d27d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\275568fcfde881a5710ec5de670da256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\275568fcfde881a5710ec5de670da256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a8caf8daf0fcee62e1576eb59858ab5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a8caf8daf0fcee62e1576eb59858ab5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fd3fc61f9fa534e4272df711d16d4afe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fd3fc61f9fa534e4272df711d16d4afe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fc847c47f8b07c08f4d547167f2b7196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fc847c47f8b07c08f4d547167f2b7196\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\68ea8affdd8ba6691c05efcd3aecc214\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\68ea8affdd8ba6691c05efcd3aecc214\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b65194344787e83a22e87055a7373590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b65194344787e83a22e87055a7373590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0fb81738fb8319cb76df39a5ff4ea0a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\0fb81738fb8319cb76df39a5ff4ea0a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d08d918f23dbc8b20192957ebb36c128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d08d918f23dbc8b20192957ebb36c128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\da22836b68191cfc1c0c7e67f02cdb4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\da22836b68191cfc1c0c7e67f02cdb4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b273edc01076b099dcc9279d69d9a4e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b273edc01076b099dcc9279d69d9a4e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5b57b79d931b44c39e12e42a3f5c6d98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5b57b79d931b44c39e12e42a3f5c6d98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fe67e12aea5a9d43dc6820c0bbc65499\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fe67e12aea5a9d43dc6820c0bbc65499\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71b9124a8866b7e147eb1fa1087dbae5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\antonio.a\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71b9124a8866b7e147eb1fa1087dbae5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\antonio.a\AndroidStudioProjects\BasicNotifications2\Application\src\main\AndroidManifest.xml
